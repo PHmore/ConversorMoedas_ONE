@@ -2,6 +2,7 @@
 
 ![Badge Desenvolvido](https://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=GREEN&style=for-the-badge)
 
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/8cad6c8b-6835-412e-8e53-96ff5a41661b" />
 
 ##  Descrição
 
